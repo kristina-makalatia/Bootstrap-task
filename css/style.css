@@ -100,9 +100,8 @@ span {
     border-radius: 50%;
 }
 .social a i{
-    padding: 10px 11px;
+    padding: 10px;
     font-size: 14px;
-    color: #fff;
 }
 .social {
 	white-space: nowrap;
