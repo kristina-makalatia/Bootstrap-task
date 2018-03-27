@@ -94,7 +94,9 @@ span {
     border-bottom: 1px solid #E2E6E9;
     line-height: 1.0;
 }
-
+.fb-like{
+	padding-right:30px;
+}
 
 /*Footer*/
 .social a{
